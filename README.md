@@ -9,6 +9,7 @@ This repository contains various guides and tutorials for working with Playwrigh
 ### Available Guides
 
 - [Git + VSCode Best Practices](GIT_VSCODE_BEST_PRACTICES.md) - Comprehensive guide for using Git with VSCode and creating PRs in Azure DevOps
+- [CLAUDE.md](CLAUDE.md) - AI Assistant guide explaining codebase structure, development workflows, and key conventions
 
 ## Getting Started
 
